@@ -1,2 +1,2 @@
-# Material-Git
-Material Git para estudos
+# Material Git
+Material Git para estudos e treinamento
